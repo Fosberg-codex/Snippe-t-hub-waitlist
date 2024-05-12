@@ -39,7 +39,7 @@
    <div class="mt-4 md:text-lg lg:text-lg text-sm rounded-md bg-lightGreen p-2 text-black"><a href="/waitlist" >Join the waitlist</a></div>
 
    <!-- detsop version -->
-   <div class=" lg:block md:block h-80 carousel carousel-vertical rounded-box border border-gray-500 mt-2">
+   <div class=" hidden lg:block md:block h-80 carousel carousel-vertical rounded-box border border-gray-500 mt-2">
 	<div class="carousel-item h-80">
 		<img src={Dev} alt="The feature image.." />
 	</div> 
