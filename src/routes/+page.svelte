@@ -17,7 +17,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="Join Snippe<t>Hub Waitlist" />
 </svelte:head>
 
 <div class="fixed top-0 right-0 left-0 bottom-0 bg-black text-white px-6 pt-2 overflow-y-auto font-poppins">
