@@ -66,7 +66,7 @@
   </div>
  
   <div class="text-xl font-semibold text-gray-500 text-center">
-	Save code snippets in many <b class="text-lightGreen">languages</b> in different diverse areas in tech.
+	Save code snippets in many <b class="text-lightGreen">languages</b> in different areas in tech.
   </div>
   <div class="text-md  text-lightGreen/70 font-light text-center lg:mb-4 md:mb-4 mb-28">
 	#software #webdev #mobiledev #scripting #AI #datascience <br> You do not always need github
