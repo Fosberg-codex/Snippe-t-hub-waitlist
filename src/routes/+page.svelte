@@ -35,7 +35,7 @@
 	<!-- mobile view -->
 	<div class="lg:hidden md:hidden mt-4 font-semibold md:text-7xl lg:text-7xl text-3xl text-center">Your Hub for storing and sharing <br><span class="absolute z-30 pl-4 text-center right-4 mr-16 text-black">code snippets</span></div>
 
-	<div class="lg:mt-4 md:mt-4 mt-14 font-semibold lg:text-4xl md:text-4xl text-lg text-center text-gray-500 ">You do not ever have to forget <br> where you saved your snippet <br> again, just come to <br> snippet</div>
+	<div class="lg:mt-4 md:mt-4 mt-14 font-semibold lg:text-4xl md:text-4xl text-lg text-center text-gray-500 ">You do not ever have to forget <br> where you saved your snippet <br> again, just come to <br>Snippe&lt;t&gt;Hub</div>
    <div class="mt-4 md:text-lg lg:text-lg text-sm rounded-md bg-lightGreen p-2 text-black"><a href="/waitlist" >Join the waitlist</a></div>
 
    <!-- detsop version -->
