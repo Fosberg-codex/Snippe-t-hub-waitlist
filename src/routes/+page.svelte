@@ -23,7 +23,7 @@
 <div class="fixed top-0 right-0 left-0 bottom-0 bg-black text-white px-6 pt-2 overflow-y-auto font-poppins">
 <Navbar/>
 <div class="flex lg:mt-32 md:mt-32 mt-28 flex-col gap-2 items-center">
-	<div class="p-2 rounded-2xl bg-gray-600 backdrop-blur-xs lg:text-base md:text-base text-sm">every piece count</div>
+	<div class="p-2 rounded-2xl bg-gray-600 backdrop-blur-xs lg:text-base md:text-base text-sm">every piece counts</div>
 	
 
 	<!-- mobile view -->
